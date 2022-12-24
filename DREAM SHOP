@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react-is/18.2.0/umd/react-is.production.min.js" integrity="sha512-HPW8hAj54KvDxt6HRiPTrcLlOWY3hkce6slKnk5jaJV5LDzNO4Zvtu+Vl+9pskAexn6dveHpoQc4IJVqRYL16A==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DREAM SHOP</title>
+</head>
+<body>
+    <section class="header-section">
+
+   <div class="container" 
+    <header class="navbar">
+        <div class="logo">
+            <img src="https://th.bing.com/th/id/OIP.mxDp_FDUrt3HwW8ODZEeNgHaFC?w=262&h=180&c=7&r=0&o=5&pid=1.7">
+        </div>
+            <nav>
+                <ul>
+                    <li><a href="">Acceuil</a></li>
+                    <li><a href="">Produits</a></li>
+                    <li><a href="">Apropos</a></li>
+                    <li><a href="">Contact</a></li>
+                    <li><a href="">Account</a></li>
+
+                </ul>
+                <img src="C:\Users\SIBOY\Desktop\E-COMMERCE\28177190d9bb40c9aa08ad4701270ebe_9366.webp" alt="cart icon" width="40px"
+            </nav>
+            </header>
+
+            <div class="row">
+                <div class="col-2">
+                <h1>DREAM SHOP</h1>
+                <P>Vous pouvez desorme acheter des loisirs en ligne sur notre boutique <b> DREAM SHOP</b></P>
+                <P>Une des clés du succès est la confiance en soi. Une des clés de la confiance en soi est la préparation.<P>
+                    <a href="">EXPLORER MAINTENANT&#8594;</a>
+            </div>
+            
+                    <div class="col-2">
+                        <img src="C:\Users\SIBOY\Desktop\E-COMMERCE\71dShx1AD+L._AC_UL1500_.jpg" alt="landing image">
+                    </div>
+                    
+            </div>
+        </div>
+    </section>
+
+
+  <!-- section des categories-->
+  <section class:"categories">
+    <div class="container">
+        <h2>Categorie Pro</h2>
+        <div class="row">
+    <div class="col-3">
+        <img src="C:\Users\SIBOY\Desktop\E-COMMERCE\1ad80e5b-506c-46cc-8515-f8e1005c421f.webp""images/category-1.jpg" alt="">
+    </div>
+    <div class="col-3">
+        <img src="C:\Users\SIBOY\Desktop\E-COMMERCE\28177190d9bb40c9aa08ad4701270ebe_9366.webp""images/category-2.jpg" alt="">
+        </div>
+        <div class="col-3">
+        <img src="C:\Users\SIBOY\Desktop\E-COMMERCE\e7bdaf6d-1083-473d-8e45-68ecea33a6f9.webp""images/category-3.jpg" alt="">
+    </div>
+  </div>
+</div>
+</section>
+  <!--meilleurs produits-->
+  <section class="featured-products">
+    <div class="container">
+        <h2>Meilleurs produits</h2>
+        <dic class="row">
+            <div class="col-4">
+                <img src="C:\Users\SIBOY\Desktop\E-COMMERCE\Chaussures-de-Tennis-lacets-pour-hommes-baskets-de-Sport-en-maille-respirante-coussin-noir.jpg_Q90.jpg_.webp""images/products-1" alt"products-1">
+                <h3>baskets</h3>
+                <p>8000fcfa</p>
+            </div>
+            <div class="col-4">
+                <img src="C:\Users\SIBOY\Desktop\E-COMMERCE\Chaussures-de-course-semelle-souple-pour-femmes-baskets-coussin-d-air-Tennis-respirantes-en-maille-pour.jpg_Q90.jpg_.webp""images/products-1" alt"products-2">
+                 <h3>baskets</h3>
+                 <p>8000fcfa</p>
+            </div>
+            <div class="col-4">
+                <img src="C:\Users\SIBOY\Desktop\E-COMMERCE\baskets-homme-chaussures-de-running-chaussures-mon.webp""images/products-3" alt"products-3">
+                <h3>baskets</h3>
+                <p>8000fcfa</p>
+            </div>
+            <div class="col-4">
+                <img src="C:\Users\SIBOY\Desktop\E-COMMERCE\201da82ba0c790b8ec4385780f129d7b.jpg""images/products-4" alt"products-4">
+                <h3>Chaussure</h3>
+                </h3>
+                <p>8000fcfa</p>
+            </div>
+        </dic>
+    </div>
+  </section>
+  <!--Autres produits-->
+  <section class="featured-products">
+    <div class="container">
+        <h2>Autres produits</h2>
+        <dic class="row">
+            <div class="col-4">
+                <img src="C:\Users\SIBOY\Desktop\E-COMMERCE\baskets-homme-chaussures-de-running-chaussures-mon.webp""images/products-5" alt"products-1">
+                <h3>baskets</h3>
+                <p>8000fcfa</p>
+            </div>
+            <div class="col-4">
+                <img src="C:\Users\SIBOY\Desktop\E-COMMERCE\Hb8103df741844329a36c99c868be9892X.jpg"images/products-1" alt"products-6">
+                 <h3>baskets</h3>
+                 <p>8000fcfa</p>
+            </div>
+            <div class="col-4">
+                <img src="C:\Users\SIBOY\Desktop\E-COMMERCE\Hc27f10c6b9d14ed4a1989a344488ac6dI.jpg_300x300.webp""images/products-7" alt"products-3">
+                <h3>baskets</h3>
+                <p>8000fcfa</p>
+            </div>
+            <div class="col-4">
+                <img src="C:\Users\SIBOY\Desktop\E-COMMERCE\81d1d6298e3e735bad305fc9593d52e7.jpg""images/products-1" alt"products-8">
+                <h3>Chaussure</h3>
+                </h3>
+                <p>8000fcfa</p>
+            </div>
+        </dic>
+    </div>
+  </section>
+
+</body>
+</html>
